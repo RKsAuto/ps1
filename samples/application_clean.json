@@ -1,0 +1,43 @@
+{
+  "form": {
+    "legal_name": "Sharma Electronics Private Limited",
+    "business_name": "Sharma Electronics",
+    "business_type": "PRIVATE_LIMITED",
+    "category": "ELECTRONICS",
+    "monthly_volume_inr": 2500000,
+    "gst_registered": true,
+    "pan": "KQQCU2975D",
+    "bank": {
+      "account_number": "50399869879730",
+      "ifsc": "HDFC0001234",
+      "account_holder": "Sharma Electronics Private Limited"
+    },
+    "contact": {
+      "email": "accounts@sharmaelectr88.example",
+      "phone": "+919820834547"
+    },
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "gstin": "27KQQCU2975D1ZP"
+  },
+  "documents": [
+    {
+      "doc_type": "PAN_CARD",
+      "filename": "pan_card.txt",
+      "text": "INCOME TAX DEPARTMENT    GOVT. OF INDIA\nPermanent Account Number Card\nKQQCU2975D\nName: Sharma Electronics Private Limited\nDate of Incorporation/Formation: 12/03/2016\nSPECIMEN - SANDBOX DOCUMENT\n"
+    },
+    {
+      "doc_type": "GST_CERTIFICATE",
+      "filename": "gst_certificate.txt",
+      "text": "Government of India\nForm GST REG-06\nRegistration Certificate\nRegistration Number: 27KQQCU2975D1ZP\n1. Legal Name: Sharma Electronics Private Limited\n2. Trade Name, if any: Sharma Electronics\n3. Constitution of Business: Private Limited Company\nSPECIMEN - SANDBOX DOCUMENT\n"
+    },
+    {
+      "doc_type": "CANCELLED_CHEQUE",
+      "filename": "cancelled_cheque.txt",
+      "text": "HDFC BANK LTD\nBranch: Fort, Mumbai    IFSC: HDFC0001234\nAccount Holder: Sharma Electronics Private Limited\nA/C No: 50399869879730\n*** CANCELLED ***\nSPECIMEN - SANDBOX DOCUMENT\n"
+    }
+  ]
+}
